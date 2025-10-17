@@ -5,7 +5,7 @@
 **Contributors:** Vincent Kimiti    
 **Project:** Form Auto-Population Automation
 
-**📥 Original Documentation:** [Download PDF](../pdfs/P08-Auto-Populating-Forms.pdf)
+**📥 Original Documentation:** [Download PDF](https://github.com/Vince8459/crm-power-platform-portfolio/blob/c805c0c2681ec29a06974c5e4475b1915fdfe297/pdf/P08%20Auto-Populating%20Forms%20with%20Power%20Automate.pdf)
 
 ---
 
