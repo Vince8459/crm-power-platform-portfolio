@@ -5,7 +5,7 @@
 **Contributors:** Vincent Kimiti  
 **Project:** Security Role Management
 
-**📥 Original Documentation:** [Download PDF](../pdfs/P14-Managing-Security-Roles.pdf)
+**📥 Original Documentation:** [Download PDF](https://github.com/Vince8459/crm-power-platform-portfolio/blob/185e056dcc4bb68a50a5479d04f712eecff7fe44/pdf/P14%20Managing%20Security%20Roles%20in%20Power%20Platform%20Admin%20Center.pdf)
 
 ---
 
