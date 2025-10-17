@@ -5,7 +5,7 @@
 **Contributors:** Vincent Kimiti  
 **Project:** Business Logic Automation
 
-**📥 Original Documentation:** [Download PDF](../pdfs/P05-Creating-Business-Rules.pdf)
+**📥 Original Documentation:** [Download PDF](https://github.com/Vince8459/crm-power-platform-portfolio/blob/2eda6cedad3f6cee18ea85b88b5e47cfae487d73/pdf/P05%20Creating%20Business%20Rules%20in%20Power%20Apps.pdf)
 
 ---
 
