@@ -5,7 +5,7 @@
 **Contributors:** Vincent Kimiti  
 **Project:** Cross-Platform Content Management
 
-**📥 Original Documentation:** [Download PDF](../pdfs/P09-Content-Management-Across-Apps.pdf)
+**📥 Original Documentation:** [Download PDF](https://github.com/Vince8459/crm-power-platform-portfolio/blob/aad2d75c06f5dccb72843f09eaf94d1de79d76a8/pdf/P09%20Managing%20Page%20Content%20Across%20Model-Driven%20Apps%20and%20Power%20Pages%20with%20Dataverse.pdf)
 
 ---
 
