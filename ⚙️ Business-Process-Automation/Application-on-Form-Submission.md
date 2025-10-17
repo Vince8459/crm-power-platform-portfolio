@@ -5,7 +5,7 @@
 **Version:** 1.0  
 **Contributors:** Vincent Kimiti
 
-**📥 Original Documentation:** [Download PDF](../pdfs/P03-Application-Form-Submission-Workflows.pdf)
+**📥 Original Documentation:** [Download PDF](https://github.com/Vince8459/crm-power-platform-portfolio/blob/91f24870678c4af86407370dc990d8b1238af3cf/pdf/P03%20Create%20an%20Application%20on%20form%20submission%20with%20Workflows%20in%20Power%20Apps.pdf)
 
 ---
 
