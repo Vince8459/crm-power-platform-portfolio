@@ -5,7 +5,7 @@
 **Contributors:** Vincent Kimiti  
 **Project:** Parent-Child Relationship in Dataverse for Subgrid Setup
 
-**📥 Original Documentation:** [Download PDF](../pdfs/P06-3D-Matrix-Parent-Child.pdf)
+**📥 Original Documentation:** [Download PDF](https://github.com/Vince8459/crm-power-platform-portfolio/blob/02f461918075eff780e691107e35e592971ca175/pdf/P06%20Configuring%20a%203D%20Matrix%20Setup%20with%20Parent-Child%20Relationship%20in%20Dataverse.pdf)
 
 ---
 
