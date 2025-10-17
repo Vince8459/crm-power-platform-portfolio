@@ -5,7 +5,7 @@
 **Contributors:** Vincent Kimiti  
 **Project:** Case Assignment Notifications
 
-**📥 Original Documentation:** [Download PDF](../pdfs/P06-Notification-Flow.pdf)
+**📥 Original Documentation:** [Download PDF](https://github.com/Vince8459/crm-power-platform-portfolio/blob/47dbd0ac8df466163eb5389e49b902e0cd8eefc2/pdf/P06%20Creating%20a%20Notification%20Flow%20in%20Power%20Automate.pdf)
 
 ---
 
