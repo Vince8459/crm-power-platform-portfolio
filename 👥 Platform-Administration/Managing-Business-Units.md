@@ -5,7 +5,7 @@
 **Contributors:** Vincent Kimiti  
 **Project:** Business Unit Organization
 
-**📥 Original Documentation:** [Download PDF](../pdfs/P12-Managing-Business-Units.pdf)
+**📥 Original Documentation:** [Download PDF](https://github.com/Vince8459/crm-power-platform-portfolio/blob/8bb0cc3e2b4f383a74e8d5d641e659bd4932c5c3/pdf/P12%20Managing%20Business%20Units%20in%20Power%20Platform%20Admin%20Center.pdf)
 
 ---
 
