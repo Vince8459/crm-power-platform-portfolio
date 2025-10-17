@@ -5,7 +5,7 @@
 **Contributors:** Vincent Kimiti  
 **Project:** Form Metadata Enhancement
 
-**📥 Original Documentation:** [Download PDF](../pdfs/P10-Form-Metadata-Scale-Options.pdf)
+**📥 Original Documentation:** [Download PDF](https://github.com/Vince8459/crm-power-platform-portfolio/blob/57131d85c67b2523474d786c3c3dc4ac68a0320a/pdf/P10%20Configuring%20Scale%20with%20Options%20Form%20Metadata%20for%20Power%20Pages.pdf)
 
 ---
 
