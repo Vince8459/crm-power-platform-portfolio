@@ -5,7 +5,7 @@
 **Contributors:** Vincent Kimiti   
 **Project:** Invest UAE Solution Redesign
 
-**📥 Original Documentation:** [Download PDF](../pdfs/P03-Splitting-Monolithic-Solutions.pdf)
+**📥 Original Documentation:** [Download PDF](https://github.com/Vince8459/crm-power-platform-portfolio/blob/caa028ff352a6c1b313270fa5cd633a75b89c1e4/pdf/P03%20Splitting%20a%20Monolithic%20Solution%20into%20Microservices%20in%20Power%20Apps.pdf)
 
 ---
 
