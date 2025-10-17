@@ -5,7 +5,7 @@
 **Contributors:** Vincent Kimiti  
 **Project:** Signature Capture Implementation
 
-**📥 Original Documentation:** [Download PDF](../pdfs/P05-Signature-Input-Configuration.pdf)
+**📥 Original Documentation:** [Download PDF](https://github.com/Vince8459/crm-power-platform-portfolio/blob/a1ddfad82430adaaafdea4709ea85ff25768af09/pdf/P05%20Configuring%20Signature%20Input%20in%20Power%20Pages%20Using%20Dataverse.pdf)
 
 ---
 
