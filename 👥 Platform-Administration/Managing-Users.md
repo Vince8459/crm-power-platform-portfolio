@@ -5,7 +5,7 @@
 **Contributors:** Vincent Kimiti  
 **Project:** User Access Management
 
-**📥 Original Documentation:** [Download PDF](../pdfs/P10-Managing-Users-Admin.pdf)
+**📥 Original Documentation:** [Download PDF](https://github.com/Vince8459/crm-power-platform-portfolio/blob/6deaac5ad2500a686c706bc8328c8ab593a9767f/pdf/P10%20Managing%20Users%20in%20Power%20Platform%20Admin%20Center.pdf)
 
 ---
 
