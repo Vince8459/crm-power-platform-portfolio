@@ -5,7 +5,7 @@
 **Version:** 1.0  
 **Contributors:** Vincent Kimiti
 
-**📥 Original Documentation:** [Download PDF](../pdfs/P04-Email-Form-Submission-Workflows.pdf)
+**📥 Original Documentation:** [Download PDF](https://github.com/Vince8459/crm-power-platform-portfolio/blob/5a37d953f54abd3bd5eed30dc0de95c741fff836/pdf/P04%20Sending%20Email%20on%20Form%20Submission%20with%20Workflows%20in%20Power%20Apps.pdf)
 
 ---
 
