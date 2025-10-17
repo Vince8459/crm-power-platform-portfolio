@@ -5,7 +5,7 @@
 **Contributors:** Vincent Kimiti   
 **Project:** Solution Deployment Management
 
-**📥 Original Documentation:** [Download PDF](../pdfs/P04-Resolving-Dependencies.pdf)
+**📥 Original Documentation:** [Download PDF](https://github.com/Vince8459/crm-power-platform-portfolio/blob/cd923df14de569a38653355a88d2f34d1a6c70e1/pdf/P04%202.pdf)
 
 ---
 
