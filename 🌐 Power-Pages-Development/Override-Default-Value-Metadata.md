@@ -5,7 +5,7 @@
 **Contributors:** Vincent Kimiti   
 **Project:** DFSA INC02 Fit and Proper Yes/No Questions
 
-**📥 Original Documentation:** [Download PDF](../pdfs/P02-Form-Metadata-Override-Default.pdf)
+**📥 Original Documentation:** [Download PDF](https://github.com/Vince8459/crm-power-platform-portfolio/blob/1452a0412a8623937455b13ca6f094384f233594/pdf/P02%20Using%20Form%20Metadata%20To%20Override%20Default%20Value.pdf)
 
 ---
 
