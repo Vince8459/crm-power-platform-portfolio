@@ -5,7 +5,7 @@
 **Contributors:** Vincent Kimiti  
 **Project:** Lead Capture Automation
 
-**📥 Original Documentation:** [Download PDF](../pdfs/P07-Lead-Capture-Microsoft-Forms.pdf)
+**📥 Original Documentation:** [Download PDF](https://github.com/Vince8459/crm-power-platform-portfolio/blob/21d880b252cd4205f736ea3472f1802da99a6828/pdf/P07%20Capturing%20Leads%20from%20Microsoft%20Forms%20into%20Dataverse%20Using%20Power%20Automate.pdf)
 
 ---
 
