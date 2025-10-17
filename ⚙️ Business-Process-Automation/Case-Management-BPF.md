@@ -5,7 +5,7 @@
 **Version:** 1.0  
 **Contributors:** Vincent Kimiti
 
-**📥 Original Documentation:** [Download PDF](../pdfs/P03-Case-Management-BPF.pdf)
+**📥 Original Documentation:** [Download PDF]([../pdfs/P03-Case-Management-BPF.pdf](https://github.com/Vince8459/crm-power-platform-portfolio/blob/346bfdae6e550ae6d0ecc9383dae47b360e40f7c/pdf/P03%20Configuring%20and%20Deploying%20Business%20Process%20Flow%20for%20Case%20Management%20in%20DQ%20Support%20CRM.pdf))
 
 ---
 
