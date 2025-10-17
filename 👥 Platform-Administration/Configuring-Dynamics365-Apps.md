@@ -5,7 +5,7 @@
 **Contributors:** Vincent Kimiti  
 **Project:** Dynamics 365 App Configuration
 
-**📥 Original Documentation:** [Download PDF](../pdfs/P11-Configuring-Dynamics365-Apps.pdf)
+**📥 Original Documentation:** [Download PDF](https://github.com/Vince8459/crm-power-platform-portfolio/blob/7ab24b01170df1c3783097265bf517db1ca7730e/pdf/P11%20Configuring%20Dynamics%20365%20Apps%20in%20Power%20Platform%20Admin%20Center.pdf)
 
 ---
 
