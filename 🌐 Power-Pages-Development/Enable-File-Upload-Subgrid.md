@@ -5,7 +5,7 @@
 **Contributors:** Vincent Kimiti   
 **Project:** DFSA INC02 3D Matrix Questions
 
-**📥 Original Documentation:** [Download PDF](../pdfs/P01-Enable-File-Upload-Subgrid.pdf)
+**📥 Original Documentation:** [Download PDF](https://github.com/Vince8459/crm-power-platform-portfolio/blob/2655f29f9b999e98f03fa72386910c0ff66dd346/pdf/P01%20Enable%20file%20upload%20for%20subgrid%20components.pdf)
 
 ---
 
