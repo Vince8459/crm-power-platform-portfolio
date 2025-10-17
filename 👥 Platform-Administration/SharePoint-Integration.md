@@ -5,7 +5,7 @@
 **Contributors:** Vincent Kimiti  
 **Project:** Enterprise Document Management
 
-**📥 Original Documentation:** [Download PDF](../pdfs/P13-SharePoint-Integration.pdf)
+**📥 Original Documentation:** [Download PDF](https://github.com/Vince8459/crm-power-platform-portfolio/blob/438522706a223af8f363626cf34adda0072b9046/pdf/P13%20Integrating%20SharePoint%20with%20Dataverse.pdf)
 
 ---
 
