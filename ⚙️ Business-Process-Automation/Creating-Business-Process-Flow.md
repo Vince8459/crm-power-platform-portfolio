@@ -6,7 +6,7 @@
 **Project:** MOI i360 BPF  
 **Reference:** MOI i360 BPF
 
-**📥 Original Documentation:** [Download PDF](../pdfs/P01-Creating-Business-Process-Flow.pdf)
+**📥 Original Documentation:** [Download PDF](https://github.com/Vince8459/crm-power-platform-portfolio/blob/ad7da24cdc119bcf661bcaca54055ff0ad93abaf/pdf/P01%20Creating%20a%20Business%20Process%20Flow.pdf)
 
 ---
 
